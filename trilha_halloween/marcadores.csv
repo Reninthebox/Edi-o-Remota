@@ -1,0 +1,15 @@
+tempo_s,timecode,marcador,o_que_acontece,sugestao_de_corte
+0.0,00:00:00:00,INICIO / ENTRADA,"Vento, sino de igreja, órgão baixo e caixinha de música",Planos longos (1 corte a cada 2 compassos = 4 s)
+4.0,00:00:04:00,Sino 2,Segundo toque do sino,Corte no sino
+8.0,00:00:08:00,SUBIDA,"Entra o baixo pulsando e o chimbal; sino",1 corte por compasso (2 s)
+12.0,00:00:12:00,Theremin 1,Theremin fantasma entra,Bom para um slow
+16.0,00:00:16:00,Caixa e bumbo,Bateria entra (caixa nos tempos 2 e 4),1 corte a cada 2 tempos (1 s)
+20.0,00:00:20:00,Theremin 2,Theremin volta,
+24.0,00:00:24:00,VIRADA,"Riser + bumbo em semínimas, theremin subindo",Speedramp acelerando até 28 s
+26.0,00:00:26:00,Rufo de caixa,Rufo acelerando,Cortes cada vez mais rápidos (0,5 s)
+28.0,00:00:28:00,PICO / DROP,"Impacto + sino grave; bumbo 4x4, palmas, baixo, lead",Ápice: 1 corte por batida (0,5 s)
+36.0,00:00:36:00,Melodia dobrada,Caixinha de música dobra o lead (mais brilho),Takes mais mexidos cabem aqui
+44.0,00:00:44:00,Sino do pico,Sino toca no meio do pico,
+52.0,00:00:52:00,FECHO,"Impacto + música abafada (filtro), theremin descendo",Planos de continuidade ou plano geral
+56.0,00:00:56:00,Sino final,Sino grave; só órgão e vento,Último plano longo
+60.0,00:01:00:00,FIM,Fade final,
